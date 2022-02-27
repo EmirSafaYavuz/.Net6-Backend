@@ -1,8 +1,8 @@
-namespace Core.Aspects.Autofac.Validation
+namespace CoreLayer.Aspects.Autofac.Validation
 {
   using Castle.DynamicProxy;
-  using Core.CrossCuttingConcerns.Validation;
-  using Core.Utilities.Interceptors;
+  using CoreLayer.CrossCuttingConcerns.Validation;
+  using CoreLayer.Utilities.Interceptors;
   using FluentValidation;
   using System;
   using System.Collections.Generic;

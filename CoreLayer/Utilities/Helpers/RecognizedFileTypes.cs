@@ -1,4 +1,4 @@
-namespace Core.Utilities.Helpers
+namespace CoreLayer.Utilities.Helpers
 {
   using System;
   using System.Collections.Generic;

@@ -1,8 +1,8 @@
-namespace Core.Utilities.Security.JWT
+namespace CoreLayer.Utilities.Security.JWT
 {
-  using Core.Entities.Concrete;
-  using Core.Extensions;
-  using Core.Utilities.Security.Encryption;
+  using CoreLayer.Entities.Concrete;
+  using CoreLayer.Extensions;
+  using CoreLayer.Utilities.Security.Encryption;
   using Microsoft.Extensions.Configuration;
   using Microsoft.IdentityModel.Tokens;
   using System;

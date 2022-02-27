@@ -1,6 +1,6 @@
-namespace Core.Utilities.Business
+namespace CoreLayer.Utilities.Business
 {
-  using Core.Utilities.Results;
+  using CoreLayer.Utilities.Results;
   using System;
   using System.Collections.Generic;
   using System.Text;

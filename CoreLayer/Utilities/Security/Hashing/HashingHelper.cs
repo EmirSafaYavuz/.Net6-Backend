@@ -1,4 +1,4 @@
-namespace Core.Utilities.Security.Hashing
+namespace CoreLayer.Utilities.Security.Hashing
 {
   using System;
   using System.Collections.Generic;

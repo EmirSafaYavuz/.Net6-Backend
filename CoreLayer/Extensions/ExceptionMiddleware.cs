@@ -1,4 +1,4 @@
-namespace Core.Extensions
+namespace CoreLayer.Extensions
 {
   using FluentValidation;
   using FluentValidation.Results;

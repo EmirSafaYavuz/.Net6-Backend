@@ -1,6 +1,6 @@
-namespace Core.Utilities.Security.JWT
+namespace CoreLayer.Utilities.Security.JWT
 {
-  using Core.Entities.Concrete;
+  using CoreLayer.Entities.Concrete;
   using System;
   using System.Collections.Generic;
   using System.Text;

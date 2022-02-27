@@ -1,6 +1,6 @@
-namespace Core.Extensions
+namespace CoreLayer.Extensions
 {
-  using Core.Utilities.IoC;
+  using CoreLayer.Utilities.IoC;
   using Microsoft.Extensions.DependencyInjection;
   using System;
   using System.Collections.Generic;

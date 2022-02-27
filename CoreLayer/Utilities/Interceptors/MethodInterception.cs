@@ -1,4 +1,4 @@
-namespace Core.Utilities.Interceptors
+namespace CoreLayer.Utilities.Interceptors
 {
   using Castle.DynamicProxy;
   using System;

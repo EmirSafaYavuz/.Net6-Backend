@@ -1,4 +1,4 @@
-namespace Core.Utilities.IoC
+namespace CoreLayer.Utilities.IoC
 {
   using Microsoft.Extensions.DependencyInjection;
   using System;

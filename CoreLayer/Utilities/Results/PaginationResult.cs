@@ -1,4 +1,4 @@
-namespace Core.Utilities.Results
+namespace CoreLayer.Utilities.Results
 {
   public class PaginationResult<T> : SuccessDataResult<T>
   {

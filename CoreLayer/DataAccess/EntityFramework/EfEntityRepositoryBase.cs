@@ -1,6 +1,6 @@
-namespace Core.DataAccess.EntityFramework
+namespace CoreLayer.DataAccess.EntityFramework
 {
-  using Core.Entities;
+  using CoreLayer.Entities;
   using Microsoft.EntityFrameworkCore;
   using System;
   using System.Collections.Generic;

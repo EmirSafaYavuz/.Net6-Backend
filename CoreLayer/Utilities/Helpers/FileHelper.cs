@@ -1,6 +1,6 @@
-namespace Core.Utilities.Helpers
+namespace CoreLayer.Utilities.Helpers
 {
-  using Core.Utilities.Results;
+  using CoreLayer.Utilities.Results;
   using Microsoft.AspNetCore.Http;
   using MimeDetective;
   using System;

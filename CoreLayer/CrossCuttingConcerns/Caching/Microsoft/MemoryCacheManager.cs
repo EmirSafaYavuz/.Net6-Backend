@@ -1,6 +1,6 @@
-namespace Core.CrossCuttingConcerns.Caching.Microsoft
+namespace CoreLayer.CrossCuttingConcerns.Caching.Microsoft
 {
-  using Core.Utilities.IoC;
+  using CoreLayer.Utilities.IoC;
   using System;
   using System.Collections.Generic;
   using System.Text;

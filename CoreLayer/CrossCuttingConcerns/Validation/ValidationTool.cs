@@ -1,4 +1,4 @@
-namespace Core.CrossCuttingConcerns.Validation
+namespace CoreLayer.CrossCuttingConcerns.Validation
 {
   using FluentValidation;
   public static class ValidationTool

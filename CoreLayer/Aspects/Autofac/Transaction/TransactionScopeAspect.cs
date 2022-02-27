@@ -1,7 +1,7 @@
-namespace Core.Aspects.Autofac.Transaction
+namespace CoreLayer.Aspects.Autofac.Transaction
 {
   using Castle.DynamicProxy;
-  using Core.Utilities.Interceptors;
+  using CoreLayer.Utilities.Interceptors;
   using System;
   using System.Collections.Generic;
   using System.Text;

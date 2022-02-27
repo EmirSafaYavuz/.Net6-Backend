@@ -1,12 +1,12 @@
-namespace Core.Aspects.Autofac.Performance
+namespace CoreLayer.Aspects.Autofac.Performance
 {
   using System;
   using System.Collections.Generic;
   using System.Diagnostics;
   using System.Text;
   using Castle.DynamicProxy;
-  using Core.Utilities.Interceptors;
-  using Core.Utilities.IoC;
+  using CoreLayer.Utilities.Interceptors;
+  using CoreLayer.Utilities.IoC;
   using Microsoft.Extensions.DependencyInjection;
   public class PerformanceAspect : MethodInterception
   {

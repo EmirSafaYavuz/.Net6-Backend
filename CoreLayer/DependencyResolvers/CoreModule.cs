@@ -1,12 +1,12 @@
-namespace Core.DependencyResolvers
+namespace CoreLayer.DependencyResolvers
 {
   using System;
   using System.Collections.Generic;
   using System.Diagnostics;
   using System.Text;
-  using Core.CrossCuttingConcerns.Caching;
-  using Core.CrossCuttingConcerns.Caching.Microsoft;
-  using Core.Utilities.IoC;
+  using CoreLayer.CrossCuttingConcerns.Caching;
+  using CoreLayer.CrossCuttingConcerns.Caching.Microsoft;
+  using CoreLayer.Utilities.IoC;
   using Microsoft.AspNetCore.Http;
   using Microsoft.Extensions.DependencyInjection;
   public class CoreModule : ICoreModule

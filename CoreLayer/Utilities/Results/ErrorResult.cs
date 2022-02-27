@@ -1,4 +1,4 @@
-namespace Core.Utilities.Results
+namespace CoreLayer.Utilities.Results
 {
   using System;
   using System.Collections.Generic;

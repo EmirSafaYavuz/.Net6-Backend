@@ -1,4 +1,4 @@
-namespace Core.Utilities.Security.JWT
+namespace CoreLayer.Utilities.Security.JWT
 {
   using System;
   using System.Collections.Generic;

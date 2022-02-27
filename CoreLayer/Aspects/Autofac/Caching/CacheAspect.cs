@@ -1,9 +1,9 @@
-namespace Core.Aspects.Autofac.Catching
+namespace CoreLayer.Aspects.Autofac.Catching
 {
   using Castle.DynamicProxy;
-  using Core.CrossCuttingConcerns.Caching;
-  using Core.Utilities.Interceptors;
-  using Core.Utilities.IoC;
+  using CoreLayer.CrossCuttingConcerns.Caching;
+  using CoreLayer.Utilities.Interceptors;
+  using CoreLayer.Utilities.IoC;
   using System;
   using System.Collections.Generic;
   using System.Text;

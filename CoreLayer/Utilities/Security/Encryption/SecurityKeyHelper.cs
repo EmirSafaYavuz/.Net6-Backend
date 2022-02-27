@@ -1,4 +1,4 @@
-namespace Core.Utilities.Security.Encryption
+namespace CoreLayer.Utilities.Security.Encryption
 {
   using Microsoft.IdentityModel.Tokens;
   using System;

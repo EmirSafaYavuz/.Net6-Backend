@@ -4,6 +4,7 @@ namespace DataAccess.Concrete.EntityFramework
   using CoreLayer.Entities.Concrete;
   using DataAccess.Abstract;
   using System.Collections.Generic;
+  using System.Linq;
 
   public class EfUserDal : EfEntityRepositoryBase<User, PozitifPsikolojiContext>, IUserDal
   {

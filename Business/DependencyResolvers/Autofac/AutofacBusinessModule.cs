@@ -5,6 +5,8 @@ namespace Business.DependencyResolvers.Autofac
   using Castle.DynamicProxy;
   using CoreLayer.Utilities.Interceptors;
   using CoreLayer.Utilities.Security.JWT;
+  using DataAccess.Abstract;
+  using DataAccess.Concrete.EntityFramework;
   using global::Autofac;
   using global::Autofac.Extras.DynamicProxy;
 

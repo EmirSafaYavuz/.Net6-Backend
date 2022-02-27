@@ -2,6 +2,7 @@ namespace Business.Concrete
 {
   using Business.Abstract;
   using CoreLayer.Entities.Concrete;
+  using DataAccess.Abstract;
   using System.Collections.Generic;
 
   public class UserManager : IUserService

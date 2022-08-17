@@ -8,7 +8,7 @@ namespace DataAccess.Concrete.EntityFramework
   using System.IO;
   using System.Text;
 
-  public class PozitifPsikolojiContext:DbContext
+  public class DatabaseContext:DbContext
   {
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
